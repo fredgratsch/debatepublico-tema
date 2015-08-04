@@ -19,6 +19,11 @@ body {
   padding: 0;
   margin: 0;
 }
+#anti-corr .anti-corr-participe {
+  padding: 40px 0;
+  margin: 0;
+  background-color: #ffffff;
+}
 #anti-corr .anti-corr-oque {
   padding: 40px 0;
   margin: 0;

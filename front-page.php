@@ -3,27 +3,40 @@
     <div class="anti-corr-top">
         <div class="container">
             <div class="row pb-lg">
-                <div class="col-md-offset-1 col-sm-4 text-center mt-md">
-                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/anti-corrupcao/logo-anti-corrupcao-v02.png" class="img-adptive mt-lg" alt="Logo: Medidas de combate à corrupção e a impunidade ">
-                </div>
-                <div class="col-md-offset-1 col-sm-6 col-md-4 white mt-md">
-                    <h1 class="font-roboto h1 mt-lg"><strong>Participe, opine, ajude!</strong></h1>
-                    <p class="mt-md">Esta consulta pública visa a proporcionar a mais ampla participação da sociedade na construção de ideias e soluções para temas essenciais a este enfrentamento: a eficiência e a eficácia de processos judiciais e administrativos. Opine. Participe.</p>
-                </div>
+                    <div class="col-md-offset-1 col-sm-4 text-center mt-md">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/anti-corrupcao/logo-anti-corrupcao-v02.png" class="img-adptive mt-lg" alt="Logo: Medidas de combate à corrupção e a impunidade ">
+                    </div>
+                    <div class="col-md-offset-1 col-sm-6 col-md-4 white mt-md">
+                        <h1 class="font-roboto h1 mt-lg"><strong>Participe, opine, ajude!</strong></h1>
+                        <p class="mt-md">Esta consulta pública visa a proporcionar a mais ampla participação da sociedade na construção de ideias e soluções para temas essenciais a este enfrentamento: a eficiência e a eficácia de processos judiciais e administrativos. Opine. Participe.</p>
+                    </div>
             </div>
         </div>
-    </div>
+    </div>   
     <div class="anti-corr-oque">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 col-md-offset-1">
-                    <h2 class="font-roboto red h1">O que é?</h2>
-                    <p class="mt-md">O enfrentamento da corrupção depende da ação integrada e articulada de todos os órgãos estatais, abarcando os três poderes de todas as esferas da Federação, e do envolvimento da sociedade civil, fundamental para a erradicação deste problema.</p>
-                    <p class="mt-sm"><a href="<?php echo site_url("/pauta/"); ?>" class="btn btn-danger font-roboto"><strong>PARTICIPE</strong></a></p>
-                </div>
-                <div class="col-sm-4 text-center">
-                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/anti-corrupcao/img-anti-corrupcao-007.png" class="img-adptive line-5" alt="Logo: Medidas de combate à corrupção e a impunidade ">
-                </div>
+                                <div class="col-sm-6 col-md-offset-1">
+                                    <h2 class="font-roboto red h1">O que é?</h2>
+                                    <p class="mt-md">O enfrentamento da corrupção depende da ação integrada e articulada de todos os órgãos estatais, abarcando os três poderes de todas as esferas da Federação, e do envolvimento da sociedade civil, fundamental para a erradicação deste problema.</p>
+                                    <p class="mt-sm"><a href="<?php echo site_url("/pauta/"); ?>" class="btn btn-danger font-roboto"><strong>PARTICIPE</strong></a></p>
+                                </div>
+                                <div class="col-sm-4 text-center">
+                                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/anti-corrupcao/img-anti-corrupcao-007.png" class="img-adptive line-5" alt="Logo: Medidas de combate à corrupção e a impunidade ">
+                                </div>
+            </div>
+        </div>
+    </div>
+    <div class="anti-corr-participe">
+        <div class="container">
+            <div class="row pb-lg">
+                    <div class="col-md-offset-1 col-sm-6 text-center mt-md">
+                     <h1 class="font-roboto h1 mt-lg"><strong>Participe, opine, ajude!</strong></h1>
+                        <p class="mt-md">Esta consulta pública visa a proporcionar a mais ampla participação da sociedade na construção de ideias e soluções para temas essenciais a este enfrentamento: a eficiência e a eficácia de processos judiciais e administrativos. Opine. Participe.</p>
+                   </div>
+                    <div class="col-md-offset-1 col-sm-6 col-md-4 white mt-md">
+                             <img src="http://3.bp.blogspot.com/-NX-uXdF7xdo/UA2lW21DfmI/AAAAAAAAACI/gGTyB3llr40/s1600/democracia.png" class="img-adptive mt-lg" alt="Logo: vote participe" >
+                    </div>
             </div>
         </div>
     </div>
