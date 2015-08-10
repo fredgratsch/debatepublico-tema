@@ -35,7 +35,7 @@
                         <p class="mt-md">Esta consulta pública visa a proporcionar a mais ampla participação da sociedade na construção de ideias e soluções para temas essenciais a este enfrentamento: a eficiência e a eficácia de processos judiciais e administrativos. Opine. Participe.</p>
                    </div>
                     <div class="col-md-offset-1 col-sm-6 col-md-4 white mt-md">
-                             <img src="http://3.bp.blogspot.com/-NX-uXdF7xdo/UA2lW21DfmI/AAAAAAAAACI/gGTyB3llr40/s1600/democracia.png" class="img-adptive mt-lg" alt="Logo: vote participe" >
+                             <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/anti-corrupcao/bck-democracia-corrupcao.png" class="img-adptive mt-lg" alt="Logo: vote participe" >
                     </div>
             </div>
         </div>
